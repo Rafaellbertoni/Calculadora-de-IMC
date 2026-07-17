@@ -12,8 +12,7 @@ O IMC é calculado a partir do peso e da altura da pessoa, e classificado em fai
 calculadora-imc/
 ├── README.md
 ├── calculadora.py           # versão em Python (terminal)
-└── web/
-    └── calculadora_imc.html # versão web (HTML/JS)
+└── calculadora_imc.html     # versão web (HTML/JS)
 ```
 
 ## Versão Python (terminal)
@@ -36,7 +35,7 @@ O programa vai pedir peso e altura pelo terminal e mostrar o resultado com a cla
 
 ### Como rodar
 
-Basta abrir o arquivo `web/calculadora_imc.html` em qualquer navegador — não precisa de servidor ou instalação.
+Basta abrir o arquivo `calculadora_imc.html` em qualquer navegador — não precisa de servidor ou instalação.
 
 ### O que essa versão traz
 
